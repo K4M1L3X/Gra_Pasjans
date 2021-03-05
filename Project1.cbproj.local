@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021-03-05 13:39:19.125,=F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Project1PCH1.h</Transaction>
+    <Transaction>2021-03-05 13:39:19.798,=F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Unit1.cpp</Transaction>
+    <Transaction>2021-03-05 14:34:59.301,F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Karty\Unit1.h=F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Unit1.h</Transaction>
+    <Transaction>2021-03-05 14:34:59.301,F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Karty\Unit1.dfm=F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Unit1.dfm</Transaction>
+    <Transaction>2021-03-05 14:34:59.301,F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Karty\Unit1.cpp=F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Unit1.cpp</Transaction>
+    <Transaction>2021-03-05 14:35:04.866,F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Karty\Project1PCH1.h=F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Project1PCH1.h</Transaction>
+    <Transaction>2021-03-05 14:35:07.829,F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Karty\Project1.cbproj=F:\PROGRAMOWANIE\C++\Strukturalny\cpp builder projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
